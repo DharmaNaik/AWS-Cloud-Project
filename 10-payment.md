@@ -83,3 +83,4 @@ systemctl enable payment
 ```
 systemctl start payment
 ```
+Note:Update `Payment` server IP in frontend `config`file ,then `restart` frontend
